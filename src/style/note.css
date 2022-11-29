@@ -1,0 +1,8 @@
+.note{
+    background-color: rgb(224, 191, 243);
+    border-radius: 7px;
+    box-shadow: 0 10px 20px hsl(0 0% 0% / .22);
+    max-width: 260px;
+    margin: 8px;
+    padding-left: 10px;
+}   
